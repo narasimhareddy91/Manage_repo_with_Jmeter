@@ -1,5 +1,5 @@
 # Manage_repo_with_Jmeter
-This repository created to manage repositories using Jmeter and Github api's
+This repository created to manage repositories using Jmeter with Github api's
 
 Prerequisites: you need to genarate access token before runnin these scripts
 
